@@ -1,6 +1,6 @@
 name: "second-core"
 displayName: "Second Core"
-author: MangoPanda_
+author: "MangoPanda_"
 description: "Get yourself a second core!"
 version: "0.1"
 minGameVersion: "135"
